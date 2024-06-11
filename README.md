@@ -1,1 +1,1 @@
-(https://reyalmonte809.github.io/pokedex/)
+https://reyalmonte809.github.io/pokedex/
